@@ -5,4 +5,4 @@ Content:
 3. Version Control Tools
 4. Github Basics
 5. Create Repo and clone the same in EC2 instance
-
+6. Work on different branches with git commands
