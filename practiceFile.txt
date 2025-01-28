@@ -3,5 +3,5 @@ Content:
 1. Version Control System
 2. Version Control Types
 3. Version Control Tools
-
+4. Try git rest and revert commands
 
