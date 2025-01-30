@@ -1,0 +1,9 @@
+name: Github Action Practice
+run-name: ${{github.actor}}
+
+on: pull_request
+jobs: 
+ Echo-Pull-Request-Review-Action:
+  runs-on: ubuntu-latest
+  steps: 
+   - run: echo "Pull Request Review trigger is working..."
