@@ -1,7 +1,7 @@
 name: Github Action Practice
 run-name: ${{github.actor}}
 
-on: pull_request
+on: pull_request_review
 jobs: 
  Echo-Pull-Request-Review-Action:
   runs-on: ubuntu-latest
